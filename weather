@@ -1,0 +1,2 @@
+#!/bin/bash
+ansiweather -l 'Huntington, West Virginia' -u imperial -a false
